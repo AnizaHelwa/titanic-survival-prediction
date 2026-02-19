@@ -1,6 +1,7 @@
 # titanic-survival-prediction
 
 **Titanic Survival Prediction: A Machine Learning Workflow**
+
 📌 **Overview**
 
 Proyek ini adalah implementasi model klasifikasi untuk memprediksi probabilitas keselamatan penumpang kapal Titanic. Menggunakan dataset legendaris dari Kaggle, proyek ini berfokus pada analisis fitur penumpang seperti usia, jenis kelamin, kelas kabin, dan tarif untuk menentukan faktor-faktor yang mempengaruhi tingkat kelangsungan hidup.
